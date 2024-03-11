@@ -1,0 +1,32 @@
+<svg width="1024" height="867" xmlns="http://www.w3.org/2000/svg">
+  <g id="hex1" transform="translate(374, 79) scale(0.128)">
+   <path d="m506,433.5l-253,-433.5l494,0l253,433.5" fill="#fff"/>
+   <path d="m506,433.5l494,-0.1l-253,433.6l-494,0l253,-433.5z" fill="#fcdb93"/>
+   <path d="m506,433.5l-253,433.5l-253,-433.5l253,-433.5l253,433.5z" fill="#fbb416"/>
+  </g>
+  <g id="hex2" transform="translate(242, 4) scale(0.15)">
+   <path d="m506,433.5l-253,-433.5l494,0l253,433.5" fill="#fff"/>
+   <path d="m506,433.5l494,-0.1l-253,433.6l-494,0l253,-433.5z" fill="#fcdb93"/>
+   <path d="m506,433.5l-253,433.5l-253,-433.5l253,-433.5l253,433.5z" fill="#fbb416"/>
+  </g>
+  <g id="hex3" transform="translate(72, 68) scale(0.192)">
+   <path d="m506,433.5l-253,-433.5l494,0l253,433.5" fill="#fff"/>
+   <path d="m506,433.5l494,-0.1l-253,433.6l-494,0l253,-433.5z" fill="#fcdb93"/>
+   <path d="m506,433.5l-253,433.5l-253,-433.5l253,-433.5l253,433.5z" fill="#fbb416"/>
+  </g>
+  <g id="hex4" transform="translate(4, 252) scale(0.284)">
+   <path d="m506,433.5l-253,-433.5l494,0l253,433.5" fill="#fff"/>
+   <path d="m506,433.5l494,-0.1l-253,433.6l-494,0l253,-433.5z" fill="#fcdb93"/>
+   <path d="m506,433.5l-253,433.5l-253,-433.5l253,-433.5l253,433.5z" fill="#fbb416"/>
+  </g>
+  <g id="hex5" transform="translate(214, 376) scale(0.400)">
+   <path d="m506,433.5l-253,-433.5l494,0l253,433.5" fill="#fff"/>
+   <path d="m506,433.5l494,-0.1l-253,433.6l-494,0l253,-433.5z" fill="#fcdb93"/>
+   <path d="m506,433.5l-253,433.5l-253,-433.5l253,-433.5l253,433.5z" fill="#fbb416"/>
+  </g>
+  <g id="hex6" transform="translate(540, 170) scale(0.480)">
+   <path d="m506,433.5l-253,-433.5l494,0l253,433.5" fill="#fff"/>
+   <path d="m506,433.5l494,-0.1l-253,433.6l-494,0l253,-433.5z" fill="#fcdb93"/>
+   <path d="m506,433.5l-253,433.5l-253,-433.5l253,-433.5l253,433.5z" fill="#fbb416"/>
+  </g>
+</svg>
